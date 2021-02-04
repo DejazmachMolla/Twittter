@@ -7,7 +7,6 @@
 - Ruby On Rails
 - Devise
 - Simple Forms
-- 
 
 ## Requirements
 - The software should enable registration, log in and logout
